@@ -41,7 +41,6 @@ app.use(session({
     //Supprimer un élément de la route
     .get('/todo/supprimer/:id', function (req, res) {
         if (req.params.id != '') {
-        console.log(req.params.id)
             req.session.todolist.splice(req.params.id, 1);
         }
         res.redirect('/todo');
