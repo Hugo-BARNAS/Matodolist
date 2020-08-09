@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [Status](#status)
 * [Contact](#contact)
 * [Website](#website)
 
@@ -16,4 +17,19 @@
 * the use of postman
 
 ## Screenshots
+
+## Technologies
+* node.js 
+* express
+* ejs
+
+## Status
+Project is: _finished_
+
+## Contact
+Created by Hugo Barnas
+hugo.barnas@gmail.com
+
+
+
 
