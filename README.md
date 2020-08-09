@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Demo](#Demo)
 * [Technologies](#technologies)
 * [Status](#status)
 * [Contact](#contact)
@@ -15,7 +15,8 @@
 * the use of ejs
 * the use of postman
 
-## Screenshots
+## Demo
+https://youtu.be/fbHM_hDUjFM
 
 ## Technologies
 * node.js 
