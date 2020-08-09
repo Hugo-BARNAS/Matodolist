@@ -7,7 +7,6 @@
 * [Technologies](#technologies)
 * [Status](#status)
 * [Contact](#contact)
-* [Website](#website)
 
 ## General info
 > Training exercise resuming:
